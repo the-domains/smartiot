@@ -4,8 +4,15 @@
         <description><![CDATA[Smart IoT - Smart Internet of Things]]></description>
         <link>https://thegrid.ai/smartiot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 08:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 08:13:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/smartiot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test 3</p>]]></description>
+            <link>https://thegrid.ai/smartiot/test-3/index.html</link>
+            <guid isPermaLink="false">4739d1ad-1b21-43b0-b5a3-8d785741b6f2</guid>
+            <pubDate>Wed, 16 Mar 2016 08:13:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test 2</p>]]></description>
